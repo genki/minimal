@@ -1,0 +1,4 @@
+minimal
+=======
+
+Test project
